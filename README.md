@@ -1,4 +1,4 @@
-# bittorrent
+# BitStream
 
 Computer Network Project
 
